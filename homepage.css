@@ -1,0 +1,66 @@
+body{
+    background-color: #f4e479;
+}
+
+.special_headline_1{
+    text-decoration: underline wavy #FF0171;
+    color:#9A04FF;
+}
+
+.small_img{
+    width: 300px;
+    height:auto;
+}
+
+#impressum1{
+    background: #ffffff;
+    border-radius: 8px;
+    margin-top: 10px;
+    max-width: 150px;
+    padding: 5px 15px;
+}
+
+#sabrina_horny{
+    height: 200px;
+    width: auto;
+}
+
+  .about-me-box {
+    max-width: 650px;
+    margin-top: 10px;
+    background: #ffffff;
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    line-height: 1.7;
+  }
+  .about-me-box h2 {
+    color: #a855f7;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+  }
+  .about-me-box p {
+    margin-bottom: 15px;
+    font-size: 1.05rem;
+  }
+  .about-me-box p:last-child {
+    margin-bottom: 0;
+  }
+  .highlight-name {
+    font-weight: 600;
+    color: #a855f7;
+  }
+
+button{
+    cursor:pointer;
+    border: 2px solid #9A04FF;
+    border-radius: 10px;
+    background-color:#00FFD6;
+    color:#0D4EFF;
+}
+
+#impressum1{
+    font-weight: bold;
+}
